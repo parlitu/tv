@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:0,CH1 Front Door LQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_01_sub
+#EXTINF:0,CH1 Front Door HQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_01_main
+
+#EXTINF:0,CH2 Patio LQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_02_sub
+#EXTINF:0,CH2 Patio HQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_02_main
+
+#EXTINF:0,CH3 Driveway LQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_03_sub
+#EXTINF:0,CH3 Driveway HQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_03_main
+
+#EXTINF:0,CH4 Shed LQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_04_sub
+#EXTINF:0,CH4 Shed HQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_04_main
+
+#EXTINF:0,CH5 Washing Line LQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_05_sub
+#EXTINF:0,CH5 Washing Line HQ
+rtsp://admin:ReoLink2020!@10.1.1.5/h264Preview_05_main
