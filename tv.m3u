@@ -14,6 +14,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1,tvg-logo="http://tvri.tvr.ro/images/logo_main_tvri.png",TVR International
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 
+#EXTINF:-1,tvg-logo="https://www.kanald.ro/img/kanald/kanald-logo.svg",Kanal D
+https://stream1.kanald.ro/iphone/live.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.kisstv.ro/app/assets/img/logo-kisstv.png",Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
+
 #EXTINF:-1,tvg-logo="https://www.novapress.ro/templates/ja_barite/images/logo.png",Nova TV Brasov
 http://novapress.ro:1935/live/nova/playlist.m3u8
 
