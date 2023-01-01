@@ -14,9 +14,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1,tvg-logo="http://tvri.tvr.ro/images/logo_main_tvri.png",TVR International
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://github.com/parlitu/tv/raw/master/kanald-logo.png",Kanal D
-https://stream1.kanald.ro/iphone/live.m3u8
-
 
 
 
